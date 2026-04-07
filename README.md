@@ -1,5 +1,3 @@
-# Proyecto-Final---Ciencia-de-Datos-I
-Consigna
 Proyecto Final
 Consigna
 
@@ -20,6 +18,14 @@ El código debe estar hecho en un notebook y debe estar probado.
 Toda la entrega debe estar en su GitHub (notebook y base de datos).
 
 Formato
+
+Entregar un archivo con formato .ipynb. Debe tener el nombre “ProyectoParteIII+Apellido.ipynb”
+
+Sugerencias
+
+Preparar el código y probar los resultados con subconjuntos del conjunto original.
+
+Video explicativo
 
 Entregar un archivo con formato .ipynb. Debe tener el nombre “ProyectoParteIII+Apellido.ipynb”
 
